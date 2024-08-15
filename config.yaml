@@ -1,0 +1,7 @@
+path: /Users/benya/Desktop/dataset/projet ete 2024 segmentation.v1i.yolov8/train
+train: /train/images
+val: /train/images
+
+#Classes
+names:
+  0: car
